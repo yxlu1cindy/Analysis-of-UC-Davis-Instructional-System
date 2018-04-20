@@ -2,7 +2,8 @@
 
 ### Group members  
 
-Yuxin Lu  Dandi Peng Yuyang Du
+Yuxin Lu  Dandi Peng Yuyang Du Jiayi Bian
+![6](https://github.com/yxlu1cindy/picture/blob/master/Capture.PNG)
 
 ### Reasons why we choose this topic
 
