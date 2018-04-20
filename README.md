@@ -21,7 +21,7 @@ We also want to combine this system with other websites to acquire some informat
 
 ### Data extraction and Storage  
 
-The scraping code is in [Scrapt_Code file](https://github.com/yxlu1cindy/Python-Project/tree/master/Scrape_Code).  
+The scraping code is in [Scrape_Code file](https://github.com/yxlu1cindy/Python-Project/tree/master/Scrape_Code).  
   
 - Course detail
   1. File Name: CourseSchedule.ipynb
