@@ -2,7 +2,7 @@
 
 ### Group members  
 
-Yuxin Lu  Dandi Peng 
+Yuxin Lu  Dandi Peng Yuyang Du
 
 ### Reasons why we choose this topic
 
