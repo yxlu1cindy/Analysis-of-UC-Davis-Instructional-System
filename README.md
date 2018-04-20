@@ -2,7 +2,7 @@
 
 ### Group members  
 
-Yuxin Lu 915470738   Yuyang Du 915528062   Dandi Peng 915553480   Jiayi Bian 915494879
+Yuxin Lu  Dandi Peng 
 
 ### Reasons why we choose this topic
 
