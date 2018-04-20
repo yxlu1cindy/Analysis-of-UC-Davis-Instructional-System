@@ -21,9 +21,7 @@ We also want to combine this system with other websites to acquire some informat
 
 ### Data extraction and Storage  
 
-The scraping code is in [Scrapt_Code file](https://github.com/UCDSTA141B/sta141b-proj--lu-peng-bian-du/tree/master/Scrape_Code).  
-
-You can find the raw data in [Dateset_temp](https://github.com/UCDSTA141B/sta141b-proj--lu-peng-bian-du/tree/master/Dataset_temp).  
+The scraping code is in [Scrapt_Code file](https://github.com/yxlu1cindy/Python-Project/tree/master/Scrape_Code).  
   
 - Course detail
   1. File Name: CourseSchedule.ipynb
@@ -91,7 +89,7 @@ You can find the raw data in [Dateset_temp](https://github.com/UCDSTA141B/sta141
 ### Data exploration  
 
 After getting all of the data, we dropped duplicated lines, reformatted the dataset and stored them altogether in data.db file.  
-The code is in [Data Reformatting.ipynb](https://github.com/UCDSTA141B/sta141b-proj--lu-peng-bian-du/blob/master/Data%20Reformatting.ipynb).  
+The code is in [Data Reformatting.ipynb](https://github.com/yxlu1cindy/Python-Project/blob/master/Data%20Reformatting.ipynb).  
 We also explore head, shape, data types of each column and whether each column has missing values for each dataset. We also use describe function to help us get summary statistics of numeric variables.
 
 ### Data analysis
@@ -158,7 +156,7 @@ We pick up departments with the largest overall quality.
 
 ![5](https://user-images.githubusercontent.com/35319675/37563536-31ef06de-2a40-11e8-8d48-d7957709de06.png)
 
-Note : Analysis of above questions can be shown in [Course_analysis_version4.ipynb](https://github.com/UCDSTA141B/sta141b-proj--lu-peng-bian-du/blob/master/Course_analysis_version4.ipynb).
+Note : Analysis of above questions can be shown in [Course_analysis_version4.ipynb](https://github.com/yxlu1cindy/Python-Project/blob/master/Course_analysis_version4.ipynb).
 
 
 **7. Can we build regression models based on rate my professor data?**
@@ -187,7 +185,7 @@ One amazing data we scrapped from "RateMyProfessor" are comment tags students se
 
 Viewing the above three Word Clouds, it is apparent that for the professor with a higher rating, "AMAZING LECTURES", "GIVES GOOD FEEDBACK", "CLEAR GRADING CRITERIA" are most common phrases, also "ACCESSIBLE OUTSIDE" is one of phrases very different from ratings in other levels. For the professor with an average or lower rating, "TOUGH GRADER", "SKIP CLASS? YOU WON'T PASS", "GET READY TO READ", "HOMEWORK TOUGH", "LOTS HOMEWORK", and "LECTURE HEAVY" are the most frequent phrases. As for the difference between 'average' and 'lower' levels, more words related to "Grade" show up at the lower levels, such as "GRADE THINGS", "GRADER TOUGH".  
 
-Note : Analysis of linear regression model, KNN model, and word cloud can be shown in [Linear_Regression_Model-ratemyprofessor-V6.ipynb](https://github.com/UCDSTA141B/sta141b-proj--lu-peng-bian-du/blob/master/Linear%20Regression%20Model-ratemyprofessor-V6.ipynb).
+Note : Analysis of linear regression model, KNN model, and word cloud can be shown in [Linear_Regression_Model-ratemyprofessor-V6.ipynb](https://github.com/yxlu1cindy/Python-Project/blob/master/Linear%20Regression%20Model-ratemyprofessor-V6.ipynb).
 
 
 ### Summary and conclusion
