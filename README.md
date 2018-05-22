@@ -1,10 +1,5 @@
 ## Analysis of UC Davis Instructional System --- a case study of 2018 winter quarter
 
-### Group members  
-
-Yuxin Lu  Dandi Peng Yuyang Du Jiayi Bian
-![6](https://github.com/yxlu1cindy/picture/blob/master/Capture.PNG)
-
 ### Reasons why we choose this topic
 
 Every quarter we have to register for some courses. Therefore, we are eager to know more about course details by analyzing this system. We also want to find more information about textbooks since textbooks are required for almost every course.  
